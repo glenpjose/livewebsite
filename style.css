@@ -1,0 +1,105 @@
+
+
+
+
+.banner{
+    background-image: url(https://images.unsplash.com/photo-1508780709619-79562169bc64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dXNpbmclMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D&w=1000&q=80);
+
+height: 650px;
+background-repeat: no-repeat;
+align-content: center;
+background-size: cover;
+background-blend-mode: hard-light;
+
+}
+
+.overlay{
+    color: white;
+    top: 250px;
+    position: absolute;
+    left: 30%;
+    
+    text-align: center;
+}
+
+.background {
+    
+    background-color:rgba(211, 68, 58, 0.829) ;
+    text-align: center;
+    height: 500px;
+    text-decoration-color: white;
+
+    
+    
+}
+
+.main{
+    
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+
+}
+
+* * .gallery,img:hover{
+
+    padding-top: 500px;
+    background: linear-gradient(to top,rgba(182, 29, 29, 0.814)50%,rgba(255, 255, 255, 0.769));
+    transition: all 0.8s;
+    background-size: 100% 200%;
+    background-position: right bottom;
+        border: none;
+        height: 10px;
+        
+
+}
+
+.img:hover{
+    box-shadow: 3px 4px 5px 2px ;
+} */
+
+.container-fluid form-container
+{
+    text-align: center;
+    border: 100px;
+    
+}
+
+.row3{
+    height: 450px;
+    background-color: rgb(29, 28, 28);
+    
+}
+
+.row3 h2{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding-top: 150px;
+    
+}
+.row4{
+height: 650px;
+
+}
+
+.col4 h1{
+    text-align: center;
+    color:black;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.col4 p{
+        text-align: center;
+        color:rgb(59, 56, 56);
+        font-weight: bold;
+        margin-top: 5px;
+}
+.reg{
+    text-align: center;
+    margin-top: 50px;
+    width: 600px;
+    height: 400px;
+    align-items: center;
+    margin-left: 450px;
+}
